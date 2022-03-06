@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c585713-4da5-457d-89a5-7baf73581e67" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstoremanager" beforeDir="false" afterPath="$PROJECT_DIR$/bookstoremanager" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookstoremanager/src/main/java/com/rodigopeleias/bookstoremanager/BookstoremanagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookstoremanager/src/main/java/com/rodigopeleias/bookstoremanager/BookstoremanagerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <updated>1646588202682</updated>
       <workItem from="1646588211183" duration="15000" />
       <workItem from="1646588268192" duration="52000" />
-      <workItem from="1646588357079" duration="5719000" />
+      <workItem from="1646588357079" duration="7716000" />
     </task>
     <servers />
   </component>
