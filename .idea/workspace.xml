@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c585713-4da5-457d-89a5-7baf73581e67" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstoremanager/src/main/java/com/rodigopeleias/bookstoremanager/BookstoremanagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookstoremanager/src/main/java/com/rodigopeleias/bookstoremanager/BookstoremanagerApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bookstoremanager" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -49,7 +58,7 @@
       <updated>1646588202682</updated>
       <workItem from="1646588211183" duration="15000" />
       <workItem from="1646588268192" duration="52000" />
-      <workItem from="1646588357079" duration="4435000" />
+      <workItem from="1646588357079" duration="5719000" />
     </task>
     <servers />
   </component>
